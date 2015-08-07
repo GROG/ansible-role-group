@@ -3,5 +3,5 @@
   remote_user: root
   roles:
     - role: ansible-role-group
-      package_list:
+      group_list:
         - name: test
