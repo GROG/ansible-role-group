@@ -30,7 +30,7 @@ groups per host or group off hosts.
 The group list allows you to define which groups must be managed. Each item in
 the list can have following attributes:
 
-| Variable | Description | required |
+| Variable | Description | Required |
 |----------|-------------|----------|
 | `name` | Group name | yes |
 | `gid` | Group id | no |
