@@ -1,6 +1,6 @@
 # Group
 
-[![Ansible Galaxy](http://img.shields.io/badge/galaxy-GROG.group-660198.svg?style=flat)](https://galaxy.ansible.com/list#/roles/4724)
+[![Ansible Galaxy](http://img.shields.io/badge/galaxy-GROG.group-660198.svg?style=flat)](https://galaxy.ansible.com/GROG/group)
 [![Build Status](https://travis-ci.org/GROG/ansible-role-group.svg?branch=master)](https://travis-ci.org/GROG/ansible-role-group)
 
 A role for managing groups.
