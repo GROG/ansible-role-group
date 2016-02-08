@@ -1,7 +1,7 @@
 # Group
 
-[![Ansible Galaxy](http://img.shields.io/badge/galaxy-GROG.group-660198.svg?style=flat)](https://galaxy.ansible.com/GROG/group)
-[![Build Status](https://travis-ci.org/GROG/ansible-role-group.svg?branch=master)](https://travis-ci.org/GROG/ansible-role-group)
+[![Ansible Galaxy][galaxy_image]][galaxy_link]
+[![Build Status][travis_image]][travis_link]
 
 A role for managing groups.
 
@@ -72,12 +72,18 @@ None.
 ```
 
 ## Contributing
-
-All assistance, changes or ideas [welcome](https://github.com/GROG/ansible-role-group/issues)!
+All assistance, changes or ideas [welcome][issues]!
 
 ## Author
-
-By [G. Roggemans](https://github.com/groggemans)
+By [G. Roggemans][groggemans]
 
 ## License
 MIT
+
+[galaxy_image]:         http://img.shields.io/badge/galaxy-GROG.group-660198.svg?style=flat
+[galaxy_link]:          https://galaxy.ansible.com/GROG/group
+[travis_image]:         https://travis-ci.org/GROG/ansible-role-group.svg?branch=master
+[travis_link]:          https://travis-ci.org/GROG/ansible-role-group
+
+[issues]:               https://github.com/GROG/ansible-role-group/issues
+[groggemans]:           https://github.com/groggemans
